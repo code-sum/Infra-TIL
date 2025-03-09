@@ -3,4 +3,4 @@
 1. Computer Architecture
 2. Network [(see more)](notes/2-0-network.md)
 3. Cloud
-4. MLOps
+4. MLOps [(see more)](notes/4-0-mlops.md)
