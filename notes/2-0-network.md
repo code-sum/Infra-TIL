@@ -11,4 +11,4 @@
 
 - Packet Loss 가 문제인 이유 [(see more)](2-7-loss.md)
 - Packet Loss Recovery 란? [(see more)](2-8-lossrecov.md)
-- Packet Loss Recovery 방법들 (see more)
+- Packet Loss Recovery 방법들 [(see more)](2-9-recovmethod.md)
