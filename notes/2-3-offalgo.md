@@ -1,4 +1,4 @@
-### Task Offloading 알고리즘 종류
+### Task Offloading Algorithm
 
 
 

@@ -1,4 +1,4 @@
-### Task Offloading 과 RRM 차이
+### Task Offloading vs. RRM
 
 
 

@@ -1,4 +1,4 @@
-### 3GPP 에서 Conditional Handover 확인
+### Conditional Handover in 3GPP
 
 
 

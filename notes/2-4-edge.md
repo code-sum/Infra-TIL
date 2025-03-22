@@ -1,4 +1,4 @@
-### Network Edge 와 Edge Computing 차이
+### Network Edge vs. Edge Computing
 
 
 

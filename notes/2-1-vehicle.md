@@ -1,4 +1,4 @@
-### Vehicle Network 와 Internet of Vehicles (IoV) 차이
+### Vehicle Network vs. Internet of Vehicles (IoV)
 
 
 
